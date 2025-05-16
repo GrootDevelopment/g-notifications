@@ -3,8 +3,19 @@
 `g-notifications` is a **standalone** notification system — no framework required.  
 You can use it in any FiveM resource, regardless of whether you're using **ESX**, **QBCore**, **QBox**, or no framework at all.
 
-<img src="./imgs/g-notifications.png" width="90%">
- 
+<h3>🖼️ Notification Styles Preview</h3>
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <img src="./imgs/2.webp" style="width: 100%;" />
+  <img src="./imgs/3.webp" style="width: 100%;" />
+  <img src="./imgs/4.webp" style="width: 100%;" />
+  <img src="./imgs/5.webp" style="width: 100%;" />
+  <img src="./imgs/image.webp" style="width: 100%;" />
+  <img src="./imgs/6.png" style="width: 100%;" />
+</div>
+
+</br>
+
 * **Showcase Video** - https://youtu.be/wS73A7UDvFo?si=gi6vzLJ760Bt6Oy8
 * **Discord** - https://discord.gg/Nm5FSxK2gv
 * **Tebex Store** - https://groot-development.tebex.io/
